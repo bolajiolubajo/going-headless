@@ -10,3 +10,5 @@ If you know any websites that are powered by Magento 2 APIs, please submit a pul
 
 * [Emperia](https://emperia.ch) by [Hatimeria](https://www.hatimeria.com)
 * [TheRake](https://therake.com) by [Hatimeria](https://www.hatimeria.com)
+* [Mamasandpapas](https://www.mamasandpapas.ae) by [Redbox Digital](http://www.redboxdigital.com/)
+* [Ounass](https://www.ounass.com) by [Redbox Digital](http://www.redboxdigital.com/)
